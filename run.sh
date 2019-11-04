@@ -34,5 +34,6 @@ play () {
 		play $(($1 - 1))
 	fi
 }
+mkdir tmp 2>> /dev/null
 menu
 rm tmp/*
