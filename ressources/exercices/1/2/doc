@@ -1,0 +1,7 @@
+Ecrire la fonction carre
+Elle devra retourné la valeur du carré d'un nombre
+La fonction devra être prototypé de la manière suivante :
+(carre x)
+Exemple d'utilisation :
+(carre 2)
+4

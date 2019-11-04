@@ -1,0 +1,7 @@
+Ecrire la fonction miseaplat_number
+Elle devra transformé une liste de nombre en liste simple.
+La fonction devra être prototypé de la manière suivante :
+(miseaplat_number liste)
+Exemple d'utilisation :
+(miseaplat_number '(1 (2)))
+'(1 2)

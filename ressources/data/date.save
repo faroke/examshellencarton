@@ -1,0 +1,10 @@
+Fichier de Sauvegarde de vos exercices
+Date : $date
+Utilisateur : $user
+
+Nom de l'exercice	Niveau		Victoire ou défaite
+$exercice-name		$exercice-lvl	    $win-or-lose
+
+
+Nombre d'exercice réussi : $nb_win
+Nombre d'exercice raté : $nb_lose
