@@ -1,2 +1,0 @@
-(miseaplat_number '(1 (2)))
-(miseaplat_number '((1) () ((3)) 4))
