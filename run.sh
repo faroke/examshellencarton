@@ -17,7 +17,7 @@ play () {
 	echo "-------------------------------------------------------------------------------------------------"
 	echo "Exercice niveau $level"
 	echo "Nom de l'exercice : $(cat ressources/exercices/$level/$NB_EXO/exo | grep name | awk '{print $2}')"
-	#echo "Prototypage de la fonction : $(cat ressources/exercices/$level/$NB_EXO/exo | grep  prototypage | awk '{print $2}')"	
+	echo "Prototypage de la fonction : $(cat ressources/exercices/$level/$NB_EXO/exo | grep  prototypage | awk '{print $2}')"	
 	echo "-------------------------------------------------------------------------------------------------"
 	cat ressources/exercices/$level/$NB_EXO/doc
 	echo ""
